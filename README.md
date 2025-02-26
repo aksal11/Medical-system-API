@@ -1,7 +1,7 @@
-#MEDICAL SYSTEM API
+# MEDICAL SYSTEM API
 The Medical Appointment System API is a Spring Boot-based RESTful web service designed to manage doctor-patient appointments efficiently. It allows hospitals and clinics to schedule, update, cancel, and retrieve appointments while also providing additional functionalities like searching by doctor , fetching appointments for a specific date.
 
-##KEY FEATURES:
+## KEY FEATURES:
 * Create appointments.  
 * Retrieve appointments by Appointment ID. 
 * Update doctor name and appointment status based on ID 
